@@ -12,3 +12,4 @@ A web scraper which identifies the most popular news published by Unit42 - The P
 *A frontend system which will show the results.\
 *Storing the identification on a Database.\
 *Swagger for API documentation.
+*PDF page with the results.
